@@ -6,6 +6,4 @@ Material da disciplina de Desenvolvimento para Dispositivos Móveis
 
 ## [Cronograma](cronograma.md "cronograma")  
 
-## Unidade 1  
-
-[Unidade1](Unidade1 "Unidade 1")  
+## [Unidade1](Unidade1 "Unidade 1")  
