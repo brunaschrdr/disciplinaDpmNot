@@ -8,6 +8,8 @@ Conteúdo
 
 ## Aula 02
 
+Entrada -> Processo -> Saída
+
 Produto
   Aplicativo (Mobilidade)
     ajuda a fazer uma lista de compras e achar os meus produtos no mercado.
@@ -20,3 +22,19 @@ Produto
           cerca virtual
 
 Exemplo de Produto Comercial: Bring!
+
+
+## 2022-03-14  
+
+Realidade Virtual (etc)
+  Realidade Virtual Imersiva  
+  Realidade Aumentada
+  Realidade Diminuída
+  Realidade Alternativa
+  Realidade Misturada
+  Metaverso
+
+Saúde
+
+IOT (Internet das Coisas)
+
